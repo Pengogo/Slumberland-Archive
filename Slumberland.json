@@ -5,10 +5,10 @@
   "author": "",
   "chapters": {
     "1": {
-      "title": "Round 1",
-      "volume": "1"
+      "title": "Part 1",
+      "volume": "9",
       "groups": {
-        "primary": "/proxy/api/imgur/chapter/Y2BbAv1/"
+        "primary": "/proxy/api/imgur/chapter/Y2BbAv1"
       },
       "last_updated": "1691737079882"
     }
