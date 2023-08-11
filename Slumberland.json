@@ -6,9 +6,41 @@
   "chapters": {
     "1": {
       "title": "Part 1",
-      "volume": "9",
+      "volume": "1",
       "groups": {
         "primary": "/proxy/api/imgur/chapter/Y2BbAv1"
+      },
+      "last_updated": "1691737079882"
+    },
+    "2": {
+      "title": "Part 2",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/7IDfHvn"
+      },
+      "last_updated": "1691737079882"
+    },
+    "3": {
+      "title": "Part 3",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/dY7cGaI"
+      },
+      "last_updated": "1691737079882"
+    },
+    "4": {
+      "title": "Part 4",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/LqBTo49"
+      },
+      "last_updated": "1691737079882"
+    },
+      "5": {
+      "title": "Part 5",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/NSpGfmN"
       },
       "last_updated": "1691737079882"
     }
