@@ -43,6 +43,14 @@
         "primary": "/proxy/api/imgur/chapter/NSpGfmN"
       },
       "last_updated": "1691737079882"
-    }
+    },
+       "6": {
+      "title": "Exhibitions",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/VHNz8ke"
+      },
+      "last_updated": "1691737079882"
+    },
   }
 }
